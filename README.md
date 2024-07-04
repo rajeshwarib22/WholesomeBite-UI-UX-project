@@ -1,5 +1,15 @@
 # WholesomeBite-UI-UX-project
 
+The Project was developed in 6 milestones:
+Milestone 1 :- Write a proper proposal idea. 
+Milestone 2:- Prepare a research plan.
+Milestone 3:- Conduct user research utilizing your Research Plan and Protocol, and create an 
+insights report based on your research. 
+Milestone 4:- Preapre primary persona, user stories and low fidelity prototype.
+Milestone 5:- Utilizing primary person, user stories, low fidelity prototype create wireframes (high fidelity) prototype of the application.
+Milestone 6: Conduct usability interviews and collect insights from the user after they used the designed prototype.
+
+
 In today's fast-paced world, it is more important than ever to maintain a healthy lifestyle. 
 People are increasingly interested in healthier lives, but many find it difficult to maintain a 
 healthy diet. There are many challenges that people face when trying to eat healthily. They 
@@ -50,3 +60,8 @@ Dec. 2022, bootcamp.uxdesign.cc/healthy-food-recipes-app-ui-ux-case-study
 3. “Case Study: Perfect Recipes App. UX Design for Cooking and Shopping.” Tubik Blog: 
 Articles about Design, 30 May 2019, blog.tubikstudio.com/case-study-recipes-app
 ux-design/. Accessed 7 Feb. 2024.
+
+
+
+
+
