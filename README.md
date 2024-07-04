@@ -2,11 +2,16 @@
 
 The Project was developed in 6 milestones:
 Milestone 1 :- Write a proper proposal idea. 
+
 Milestone 2:- Prepare a research plan.
+
 Milestone 3:- Conduct user research utilizing your Research Plan and Protocol, and create an 
 insights report based on your research. 
+
 Milestone 4:- Preapre primary persona, user stories and low fidelity prototype.
+
 Milestone 5:- Utilizing primary person, user stories, low fidelity prototype create wireframes (high fidelity) prototype of the application.
+
 Milestone 6: Conduct usability interviews and collect insights from the user after they used the designed prototype.
 
 
