@@ -1,6 +1,7 @@
 # WholesomeBite-UI-UX-project
 
 The Project was developed in 6 milestones:
+
 Milestone 1 :- Write a proper proposal idea. 
 
 Milestone 2:- Prepare a research plan.
@@ -14,6 +15,9 @@ Milestone 5:- Utilizing primary person, user stories, low fidelity prototype cre
 
 Milestone 6: Conduct usability interviews and collect insights from the user after they used the designed prototype.
 
+
+
+Project Proposal :
 
 In today's fast-paced world, it is more important than ever to maintain a healthy lifestyle. 
 People are increasingly interested in healthier lives, but many find it difficult to maintain a 
