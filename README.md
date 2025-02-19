@@ -68,6 +68,11 @@ Dec. 2022, bootcamp.uxdesign.cc/healthy-food-recipes-app-ui-ux-case-study
 977adef4e6d. Accessed 7 Feb. 2024. 
 3. “Case Study: Perfect Recipes App. UX Design for Cooking and Shopping.” Tubik Blog: 
 Articles about Design, 30 May 2019, blog.tubikstudio.com/case-study-recipes-app
+
+Low Fidelity Prototype : https://marvelapp.com/prototype/6gg01ca
+High Fidelity Prototype : https://www.figma.com/proto/jTOP8m0EqRJy5ao7nCzMJb/WHOLESOME-BITES?type=design&node-id=4-204&t=iYtcmCjW1YFJSKGS-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A204 
+User interviews: https://drive.google.com/drive/folders/1NxfB7dNRHoVrXY-xJfuaxb6zaa5st2V3?usp=sharing
+Usability testing interviews: https://drive.google.com/drive/folders/1K46h9C142lb_1BE2zDrxettQmlJtQYLM?usp=sharing
 ux-design/. Accessed 7 Feb. 2024.
 
 
