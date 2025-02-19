@@ -77,8 +77,6 @@ User interviews: https://drive.google.com/drive/folders/1NxfB7dNRHoVrXY-xJfuaxb6
 
 Usability testing interviews: https://drive.google.com/drive/folders/1K46h9C142lb_1BE2zDrxettQmlJtQYLM?usp=sharing
 
-ux-design/. Accessed 7 Feb. 2024.
-
 
 
 
