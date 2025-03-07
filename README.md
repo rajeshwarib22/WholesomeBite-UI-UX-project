@@ -50,6 +50,8 @@ Gamification & Social Features: Encourages user engagement through achievements 
 
 WholesomeBite differentiates itself from competitors like MyFitnessPal, Lose It!, and Yummly by offering a more comprehensive and user-friendly experience. While MyFitnessPal focuses on calorie tracking, Lose It! emphasizes weight loss, and Yummly specializes in recipe discovery, WholesomeBite integrates all these elements into a holistic nutrition management platform.
 
+## Prototypes & Research Materials
+
 Low Fidelity Prototype : https://marvelapp.com/prototype/6gg01ca
 
 High Fidelity Prototype : https://www.figma.com/proto/jTOP8m0EqRJy5ao7nCzMJb/WHOLESOME-BITES?type=design&node-id=4-204&t=iYtcmCjW1YFJSKGS-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A204 
