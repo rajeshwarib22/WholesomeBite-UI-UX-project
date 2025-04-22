@@ -44,7 +44,7 @@ Grocery List Generation: Automatically generates grocery lists based on selected
 
 Community Engagement: Users can share recipes, tips, and success stories to foster motivation and accountability.
 
-Gamification & Social Features: Encourages user engagement through achievements and social support.
+
 
 ## Competitive Analysis
 
