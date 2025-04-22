@@ -40,9 +40,7 @@ Personalized Meal Planning: Users can customize meal plans based on dietary pref
 
 Recipe Discovery: A vast collection of healthy recipes tailored to user preferences.
 
-Grocery List Generation: Automatically generates grocery lists based on selected recipes.
-
-Community Engagement: Users can share recipes, tips, and success stories to foster motivation and accountability.
+Grocery List Generation: Add grocery items based on selected recipes to shopping cart.
 
 
 
@@ -63,7 +61,7 @@ Usability testing interviews: https://drive.google.com/drive/folders/1K46h9C142l
 
 ## Conclusion
 
-WholesomeBite is designed to empower individuals in making healthier dietary choices through a well-researched, user-friendly, and engaging digital platform. By integrating key features such as personalized meal planning, recipe discovery, and a supportive community, this app aims to positively impact users' health and well-being.
+WholesomeBite is designed to empower individuals in making healthier dietary choices through a well-researched, user-friendly, and engaging digital platform. By integrating key features such as personalized meal planning, recipe discovery, and a nutrition chart per meal, this app aims to positively impact users' health and well-being.
 
 
 
