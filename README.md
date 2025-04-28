@@ -2,7 +2,7 @@
 
 Project Overview
 
-WholesomeBite is a mobile application designed to help users make healthier food choices and reach their nutritional goals. In today's fast-paced world, maintaining a healthy diet can be challenging due to a lack of knowledge, limited cooking skills, or difficulty finding nutritious recipes. Our project aims to create a user-friendly and engaging app that simplifies meal planning, preparation, and tracking while fostering a supportive community. (Presentation)[https://www.canva.com/design/DAGDxOHye78/vwZFJVoDu4LR-wEscT8D5g/view?utm_content=DAGDxOHye78&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h230ac78b57]
+WholesomeBite is a mobile application designed to help users make healthier food choices and reach their nutritional goals. In today's fast-paced world, maintaining a healthy diet can be challenging due to a lack of knowledge, limited cooking skills, or difficulty finding nutritious recipes. Our project aims to create a user-friendly and engaging app that simplifies meal planning, preparation, and tracking while fostering a supportive community. [Presentation](https://www.canva.com/design/DAGDxOHye78/vwZFJVoDu4LR-wEscT8D5g/view?utm_content=DAGDxOHye78&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h230ac78b57)
 
 ## Project Milestones
 
